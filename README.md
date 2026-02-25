@@ -1,7 +1,7 @@
 # Inteligencia-Artificial
 Adicionar atividades da aula :) - Essas compõem a nota do trabalho
 Nomes:
-/n
+<p>/n</p>
 → Karen Tanaka
 → Gabrielle Morente Perna
 → Antonio Ferreira de Lima
