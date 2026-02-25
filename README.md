@@ -1,5 +1,5 @@
 # Inteligencia-Artificial <p></p>
-Adicionar atividades da aula :) - Essas compõem a nota do trabalho  <p></p>
+Adicionar atividades da aula :) - Essas atividades compõem a nota do trabalho (3,0) <p></p>
 Nomes:
 <p></p>
 → Karen Tanaka <p></p>
